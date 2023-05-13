@@ -7,6 +7,8 @@ symbols=["£","&","!","%","$"]
 
 # print(chr(letters))
 
+# chinni
+
 for number in range(ord("a"), ord("p")+1):
     print(chr(number))
 
